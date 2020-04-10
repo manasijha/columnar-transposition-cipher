@@ -20,9 +20,11 @@ E
 In the irregular case, the columns are not completed by nulls:
 
 The cipher text comes out to be:
+
 LCLECHLESAELIEEALCLECOFTTF
 
 In a regular columnar transposition, we write this into the grid as follows:
+
 2 4 1 3 5
 H E L L O
 L U C I F
@@ -30,10 +32,13 @@ E R L E T
 S M E E T
 A T C A F
 E X X X X
+
 The cipher text comes out to be:
+
 LCLECXHLESAELIEEAXLCLECXOFTTFX
 
 
 
 This project has a code to decrypt the columnar transposition cipher to text.
+
 The code can be read from code.py
