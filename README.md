@@ -6,7 +6,7 @@ For example, the keyword FLAGS is of length 5 (so the rows are of length 5), and
  
 In a regular columnar transposition cipher, any spare spaces are filled with nulls; in an irregular columnar transposition cipher, the spaces are left blank.Finally, the message is read off in columns, in the order specified by the keyword.
  
-For example, suppose we use the keyword FLAGS and the message HELLO LUCIFER.LETS MEET AT CAFE. In a regular columnar transposition, we write this into the grid as follows:
+For example, suppose we use the keyword FLAGS and the message HELLO LUCIFER. LETS MEET AT CAFE. In a regular columnar transposition, we write this into the grid as follows:
  
  
 2 4 1 3 5
